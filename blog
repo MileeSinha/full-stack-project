@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<style>
+body  {
+  background-image: url("pic6.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.i{
+    width: 40%;
+    border-radius: 25%;
+    border:3px solid black;
+    padding: 2%;
+}
+.h{
+    height: 20%;
+    background-color:black;
+    color:grey;
+    text-align: center;
+    border:4px solid greenyellow;
+    border-radius: 20px;
+}
+ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 5px;
+        display: flex;
+
+      }
+      .u{
+          background-color: blueviolet;
+          border-radius: 6px;
+      }
+      .l{
+          background: black;
+          width:25%;
+          border: 2px solid greenyellow;
+          border-radius:10px;
+      }
+
+</style>
+<body>
+        <header class="h">
+                <ul class="u">
+                     <li class="l" ><a href="bling.html">Home</a> </li>
+                     <li class="l"><a href="blingnews.html">News</a> </li>
+                     <li class="l"><a href="blingcontact.html">Contact</a> </li>
+                     <li class="l"><a href="blingabout.html">About</a></li>
+                   </ul>
+                   <H1>Student Organization Management System</H1>
+             </header>
+    
+    <div>
+        <br><br>
+        <center><img src="sports.png" class="i"></center>
+    
+           <center><h1>Sports blog</h1></center>
+        <br>
+            Sport includes all forms of competitive physical activity or games which, through casual or organised participation, aim to
+             maintain or improve physical ability and skills while providing enjoyment to participants, and in some cases, entertainment for 
+             spectators.
+             Sport is usually governed by a set of rules or customs, which serve to ensure fair competition, and allow consistent adjudication of the
+              winner. Winning can be determined by physical events such as scoring goals or crossing a line first. It can also be determined by judges
+               who are scoring elements of the sporting performance,including objective or subjective measures such as technical 
+               performance or artistic impression.
+               <br>
+              <a href="sports.html">click here to read more amazing articles about sports</a>
+
+        </p>
+    </div>
+    <br>
+    <div>
+            <center><img src="fashion.jpg" class="i"></center>
+            <center><h1>fashion blog</h1></center>
+            <br>
+            Fashion is a popular aesthetic expression in a certain time and context, especially in clothing, footwear, lifestyle, accessories, makeup, hairstyle and body proportions.[1] Whereas, a trend often connotes a very specific aesthetic expression, and often lasting shorter than a season, fashion is a distinctive and industry-supported expression traditionally tied to the fashion season and collections.[2] Style is an expression that lasts over many seasons, and is often connected to cultural movements and social markers, symbols, class and culture (ex. Baroque, Rococo, etc). According to sociologist Pierre Bourdieu, fashion connotes “the latest fashion, the latest difference.”[3]
+
+Even though they are often used together, the term fashion differs from clothes and costume, where the first describes the material and technical garment, whereas the second has been relegated to special senses like fancy-dress or masquerade wear. Fashion instead describes the social and temporal system that "activates" dress as a social signifier in a certain time and context. Philosopher Georgio Agamben connects fashion to the current intensity of the qualitative moment, to the temporal aspect the Greek called kairos, whereas clothes belong to the quantitative, to what the Greek called chronos.[4]
+<br>
+<a href="fashion.html">click here to know more about fashion</a>    
+</div>
+    <br>
+    <div >
+            <center><img src="technology.jpg" class="i"></center>
+<center><h1>technology blog</h1></center>
+    </div>
+    <br>
+    <div>
+           <center> <img src="travel.jpg" class="i"></center>
+           <center><h1>travel blog</h1></center>
+    </div>
+</body>
+</html>
